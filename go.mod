@@ -5,7 +5,7 @@ go 1.13
 replace github.com/brianloveswords/airtable => github.com/moul/brianloveswords-airtable v0.0.0-20191014120838-8b07ee6d33b2
 
 require (
-	github.com/Bearer/bearer-go v1.1.0
+	github.com/Bearer/bearer-go v1.2.1
 	github.com/cayleygraph/cayley v0.7.7
 	github.com/cayleygraph/quad v1.2.1
 	github.com/go-chi/chi v4.0.3+incompatible
@@ -16,7 +16,7 @@ require (
 	github.com/gobuffalo/packr/v2 v2.7.1
 	github.com/gogo/gateway v1.1.0
 	github.com/gogo/protobuf v1.3.1
-	github.com/golang/protobuf v1.3.3
+	github.com/golang/protobuf v1.3.4
 	github.com/google/go-github/v28 v28.1.1
 	github.com/grpc-ecosystem/go-grpc-middleware v1.2.0
 	github.com/grpc-ecosystem/grpc-gateway v1.13.0
@@ -40,12 +40,12 @@ require (
 	golang.org/x/sys v0.0.0-20200223170610-d5e6a3e2c0ae // indirect
 	golang.org/x/tools v0.0.0-20200221224223-e1da425f72fd // indirect
 	google.golang.org/appengine v1.6.5 // indirect
-	google.golang.org/genproto v0.0.0-20200218151345-dad8c97a84f5
+	google.golang.org/genproto v0.0.0-20200228133532-8c2c7df3a383
 	google.golang.org/grpc v1.27.1
 	gopkg.in/yaml.v2 v2.2.8
 	gopkg.in/yaml.v3 v3.0.0-20200121175148-a6ecf24a6d71 // indirect
 	honnef.co/go/tools v0.0.1-2020.1.3 // indirect
-	moul.io/godev v1.4.0
+	moul.io/godev v1.5.0
 	moul.io/graphman v1.6.0
 	moul.io/graphman/viz v0.0.0-20200107124335-9891d9dbbff6
 	moul.io/multipmuri v1.13.0
